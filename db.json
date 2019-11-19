@@ -1,0 +1,148 @@
+{
+    "players": [
+        {
+            "number": 1,
+            "name": "アントニオ・アダン",
+            "url": "/img/1.jpg",
+            "pos": "GK"
+        },
+        {
+            "number": 2,
+            "name": "ホセ・ヒメネス",
+            "url": "/img/2.jpg",
+            "pos": "DF"
+        },
+        {
+            "number": 4,
+            "name": "サンティアゴ・アリアス",
+            "url": "/img/4.jpg",
+            "pos": "DF"
+        },
+        {
+            "number": 5,
+            "name": "トーマス・パルテイ",
+            "url": "/img/5.jpg",
+            "pos": "MF"
+        },
+        {
+            "number": 6,
+            "name": "コケ",
+            "url": "/img/6.jpg",
+            "pos": "MF"
+        },
+        {
+            "number": 7,
+            "name": "ジョアン・フェリックス",
+            "url": "/img/7.jpg",
+            "pos": "FW"
+        },
+        {
+            "number": 8,
+            "name": "サウール・ニゲス",
+            "url": "/img/8.jpg",
+            "pos": "MF"
+        },
+        {
+            "number": 9,
+            "name": "アルバロ・モラタ",
+            "url": "/img/9.jpg",
+            "pos": "FW"
+        },
+        {
+            "number": 10,
+            "name": "アンヘル・コレア",
+            "url": "/img/10.jpg",
+            "pos": "FW"
+        },
+        {
+            "number": 11,
+            "name": "トマ・ルマル",
+            "url": "/img/11.jpg",
+            "pos": "MF"
+        },
+        {
+            "number": 12,
+            "name": "レナン・ロディ",
+            "url": "/img/12.jpg",
+            "pos": "DF"
+        },
+        {
+            "number": 13,
+            "name": "ヤン・オブラク",
+            "url": "/img/13.jpg",
+            "pos": "GK"
+        },
+        {
+            "number": 14,
+            "name": "マルコス・ジョレンテ",
+            "url": "/img/14.jpg",
+            "pos": "MF"
+        },
+        {
+            "number": 15,
+            "name": "ステファン・サヴィッチ",
+            "url": "/img/15.jpg",
+            "pos": "DF"
+        },
+        {
+            "number": 16,
+            "name": "エクトル・エレーラ",
+            "url": "/img/16.jpg",
+            "pos": "MF"
+        },
+        {
+            "number": 17,
+            "name": "イヴァン・シャポニッチ",
+            "url": "/img/17.jpg",
+            "pos": "FW"
+        },
+        {
+            "number": 18,
+            "name": "フェリペ",
+            "url": "/img/18.jpg",
+            "pos": "DF"
+        },
+        {
+            "number": 19,
+            "name": "ジエゴ・コスタ",
+            "url": "/img/19.jpg",
+            "pos": "FW"
+        },
+        {
+            "number": 20,
+            "name": "ビトーロ",
+            "url": "/img/20.jpg",
+            "pos": "MF"
+        },
+        {
+            "number": 22,
+            "name": "マリオ・エルモソ",
+            "url": "/img/22.jpg",
+            "pos": "DF"
+        },
+        {
+            "number": 23,
+            "name": "キーラン・トリッピアー",
+            "url": "/img/23.jpg",
+            "pos": "DF"
+        },
+        {
+            "number": 24,
+            "name": "シメ・ヴルサリコ",
+            "url": "/img/24.jpg",
+            "pos": "DF"
+        },
+        {
+            "number": 32,
+            "name": "ロドリゴ・リメルケ",
+            "url": "/img/32.jpg",
+            "pos": "MF"
+        },
+        {
+            "number": 35,
+            "name": "マヌエル・サンチェス",
+            "url": "/img/35.jpg",
+            "pos": "DF"
+        }
+    ]
+}

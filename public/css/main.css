@@ -1,0 +1,9 @@
+.player {
+    display: inline-block;
+    width: 120px;
+    height: 180px;
+    vertical-align: top;
+}
+.player img {
+    display: block;
+}

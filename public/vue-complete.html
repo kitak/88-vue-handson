@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="./css/main.css">
+    <script src="https://cdn.jsdelivr.net/npm/vue@2.6.0"></script>
+    <script src="./js/main-vue-complete.js"></script>
+</head>
+<body>
+    <div class="main">
+        <h1>選択された選手</h1>
+        <p v-if="selectedPlayers.length == 0">
+            選択している選手はいません
+        </p>
+        <div v-else>
+            <player :player="player" v-for="(player, index) in selectedPlayers" :key="player.number" @click.native="unselect(index)"></player>
+        </div>
+
+        <h1>選手一覧</h1>
+        <p v-if="players.length == 0">
+            取得中です
+        </p>
+        <div v-else>
+            <player :player="player" v-for="(player, index) in players" :key="player.number" @click.native="select(index)"></player>
+        </div>
+    </div>
+</body>
+</html>

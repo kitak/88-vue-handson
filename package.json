@@ -1,0 +1,22 @@
+{
+  "name": "88-vue-handson",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "scripts": {
+    "server": "json-server --watch db.json --port 5678"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kitak/88-vue-handson.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kitak/88-vue-handson/issues"
+  },
+  "homepage": "https://github.com/kitak/88-vue-handson#readme",
+  "dependencies": {
+    "json-server": "^0.15.1"
+  }
+}
